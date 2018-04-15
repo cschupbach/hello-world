@@ -1,5 +1,5 @@
 # hello-world
-######[Getting started exercise]
+###### [Getting started exercise]
 
 Hello!
 
